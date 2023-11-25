@@ -1,16 +1,15 @@
-### Hi there 👋
+### 🙋‍ Who am I
++ Haoyuan (Kyle) Ma
++ Master of [Data Science](https://fortune.com/education/information-technology/university-of-michigan-ann-arbor/) at University of Michigan - Ann Arbor
++ (Graduated) Bachelor of [Computer Science and Data Science](https://cs.nyu.edu/home/undergrad/major_programs.html) at New York University
++ Current Computer Vision Reasearch Asistant at [Biomedical & Clinical Informatics Lab](https://najarianlab.ccmb.med.umich.edu/)
++ Former Big Data Engineer intern at [Rocket Central](https://rocketcentral.com/)
 
-<!--
-**KyleMa000/KyleMa000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I am looking for...
++ Data Scientist \ Computer Vision \ Machine Learning Engineer Full Time Positions
++ H-1B Sponsorship Needed 🙏
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact me
+<!-- + Wechat: Magnoliae_Flos -->
++ Email: mhaoyuan@umich.edu
++ LinkedIn: [Haoyuan Ma](https://www.linkedin.com/in/mahaoyuan/)
