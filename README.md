@@ -1,5 +1,5 @@
 ### 🙋‍ Who am I
-+ Master of [Data Science](https://fortune.com/education/information-technology/university-of-michigan-ann-arbor/) at University of Michigan - Ann Arbor
++ (Graduated) Master of [Data Science](https://fortune.com/education/information-technology/university-of-michigan-ann-arbor/) at University of Michigan - Ann Arbor
 + (Graduated) Bachelor of [Computer Science and Data Science](https://cs.nyu.edu/home/undergrad/major_programs.html) at New York University
 + Current Computer Vision Reasearch Asistant at [Biomedical & Clinical Informatics Lab](https://najarianlab.ccmb.med.umich.edu/)
 + Former Big Data Engineer intern at [Rocket Central](https://rocketcentral.com/)
